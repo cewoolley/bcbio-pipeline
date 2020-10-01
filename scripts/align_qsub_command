@@ -1,0 +1,1 @@
+qsub -t 1 submit_bcbio_alignment.sh /exports/igmm/eddie/tomlinson-rhythm/bcbio/scripts/config.sh /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/ids.txt T
