@@ -1,0 +1,120 @@
+[2020-09-24T14:49Z] Skipping header.
+[2020-09-24T14:49Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:49Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:49Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:49Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:49Z] Timing: prepare bcbio samples
+[2020-09-24T14:49Z] Skipping header.
+[2020-09-24T14:49Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:49Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:49Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:49Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:49Z] Timing: prepare bcbio samples
+[2020-09-24T14:49Z] multiprocessing: prepare_bcbio_samples
+[2020-09-24T14:49Z] multiprocessing: prepare_bcbio_samples
+[2020-09-24T14:49Z] Preparing RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1_N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1_N.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1_N.fastq.gz.
+[2020-09-24T14:49Z] Preparing RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2_N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2_N.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2_N.fastq.gz.
+[2020-09-24T14:49Z] Preparing new csv: RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1__prepare_samples-merged.csv
+[2020-09-24T14:49Z] Preparing new csv: RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2__prepare_samples-merged.csv
+[2020-09-24T14:51Z] Skipping header.
+[2020-09-24T14:51Z] Skipping header.
+[2020-09-24T14:51Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:51Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:51Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:51Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:51Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:51Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:51Z] Timing: prepare bcbio samples
+[2020-09-24T14:51Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T14:51Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T14:51Z] Timing: prepare bcbio samples
+[2020-09-24T14:51Z] multiprocessing: prepare_bcbio_samples
+[2020-09-24T14:51Z] multiprocessing: prepare_bcbio_samples
+[2020-09-24T14:51Z] Preparing RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1_N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1_N.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1_N.fastq.gz.
+[2020-09-24T14:51Z] Preparing RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2_N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2_N.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2_N.fastq.gz.
+[2020-09-24T14:51Z] Preparing new csv: RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1__prepare_samples-merged.csv
+[2020-09-24T14:51Z] Preparing new csv: RHB101_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2__prepare_samples-merged.csv
+[2020-09-24T15:16Z] Skipping header.
+[2020-09-24T15:16Z] Skipping header.
+[2020-09-24T15:18Z] Skipping header.
+[2020-09-24T15:18Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T15:18Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T15:18Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T15:18Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T15:18Z] Timing: prepare bcbio samples
+[2020-09-24T15:18Z] multiprocessing: prepare_bcbio_samples
+[2020-09-24T15:18Z] Preparing RHB101N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101N_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101N_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB101N.fastq.gz.
+[2020-09-24T15:18Z] Preparing new csv: RHB101_prepare_samples-merged.csv
+[2020-09-24T15:18Z] Skipping header.
+[2020-09-24T15:18Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T15:18Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T15:18Z] Resource requests: sambamba, samtools; memory: 2.00, 2.00; cores: 1, 1
+[2020-09-24T15:18Z] Configuring 1 jobs to run, using 1 cores each with 2.00g of memory reserved for each job
+[2020-09-24T15:18Z] Timing: prepare bcbio samples
+[2020-09-24T15:18Z] multiprocessing: prepare_bcbio_samples
+[2020-09-24T15:18Z] Preparing RHB101N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101N_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB101N_BUFFY_EDHG200007322-2a_HCYHVDSXY_L3_2.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB101N.fastq.gz.
+[2020-09-24T15:18Z] Preparing new csv: RHB101_prepare_samples-merged.csv
+[2020-09-25T17:23Z] Skipping header.
+[2020-09-25T17:23Z] Skipping header.
+[2020-09-25T17:23Z] RHB102N_BUFFY_EDHG200007323-2a_HCYHVDSXY_L3_1.fq.gz stem is multiple times in your file list, so we don't know how to assign it to the sample data in the CSV. We are gonna use full path to make a difference, that means paired files should be in the same folder. If this is a problem, you should rename the files you want to merge. Sorry, no possible magic here.
+[2020-09-25T17:23Z] RHB102N_BUFFY_EDHG200007323-2a_HCYHVDSXY_L3_1.fq.gz stem is multiple times in your file list, so we don't know how to assign it to the sample data in the CSV. We are gonna use full path to make a difference, that means paired files should be in the same folder. If this is a problem, you should rename the files you want to merge. Sorry, no possible magic here.
+[2020-09-25T17:23Z] RHB102T_BL_EDHG200007333-1a_HCYFFDSXY_L1_1.fq.gz stem is multiple times in your file list, so we don't know how to assign it to the sample data in the CSV. We are gonna use full path to make a difference, that means paired files should be in the same folder. If this is a problem, you should rename the files you want to merge. Sorry, no possible magic here.
+[2020-09-25T17:23Z] RHB102T_BL_EDHG200007333-1a_HCYFFDSXY_L1_1.fq.gz stem is multiple times in your file list, so we don't know how to assign it to the sample data in the CSV. We are gonna use full path to make a difference, that means paired files should be in the same folder. If this is a problem, you should rename the files you want to merge. Sorry, no possible magic here.
+[2020-09-25T17:23Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-25T17:23Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-25T17:23Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-25T17:23Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-25T17:23Z] Timing: prepare bcbio samples
+[2020-09-25T17:23Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-25T17:23Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-25T17:23Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-25T17:23Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-25T17:23Z] Timing: prepare bcbio samples
+[2020-09-25T17:23Z] multiprocessing: prepare_bcbio_samples
+[2020-09-25T17:23Z] multiprocessing: prepare_bcbio_samples
+[2020-09-25T17:23Z] Preparing RHB102N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB102N_BUFFY_EDHG200007323-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB102N_BUFFY_EDHG200007323-2a_HCYHVDSXY_L3_2.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB102N.fastq.gz.
+[2020-09-25T17:23Z] Preparing RHB102N files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB102N_BUFFY_EDHG200007323-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB102N_BUFFY_EDHG200007323-2a_HCYHVDSXY_L3_2.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB102N.fastq.gz.
+[2020-09-25T17:23Z] Preparing RHB102T files [['/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB102T_BL_EDHG200007333-1a_HCYFFDSXY_L1_1.fq.gz', '/exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/lane/RHB102T_BL_EDHG200007333-1a_HCYFFDSXY_L1_2.fq.gz']] to merge into /exports/igmm/eddie/tomlinson-rhythm/bcbio/reads/RHB102T.fastq.gz.
+[2020-09-25T17:23Z] Preparing new csv: RHB102_prepare_samples-merged.csv
+[2020-09-30T20:43Z] Skipping header.
+[2020-09-30T20:48Z] Skipping header.
+[2020-09-30T20:52Z] Skipping header.
+[2020-09-30T20:52Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T20:52Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T20:52Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T20:52Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T20:52Z] Timing: prepare bcbio samples
+[2020-09-30T20:52Z] multiprocessing: prepare_bcbio_samples
+[2020-09-30T20:52Z] Preparing RHB103N files [['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB103N_BUFFY_EDHG200007324-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB103N_BUFFY_EDHG200007324-2a_HCYHVDSXY_L3_2.fq.gz']] to merge into /exports/eddie/scratch/s2006465/bcbio/reads/RHB103N.fastq.gz.
+[2020-09-30T20:52Z] Preparing new csv: RHB103_prepare_samples-merged.csv
+[2020-09-30T21:07Z] Skipping header.
+[2020-09-30T21:10Z] Skipping header.
+[2020-09-30T21:10Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T21:10Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T21:10Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T21:10Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T21:10Z] Timing: prepare bcbio samples
+[2020-09-30T21:10Z] multiprocessing: prepare_bcbio_samples
+[2020-09-30T21:10Z] Preparing RHB104N files [['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYHVDSXY_L3_2.fq.gz'], ['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYTYDSXY_L4_1.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYTYDSXY_L4_2.fq.gz']] to merge into /exports/eddie/scratch/s2006465/bcbio/reads/RHB104N.fastq.gz.
+[2020-09-30T21:10Z] merge fastq files ['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYTYDSXY_L4_1.fq.gz']
+[2020-09-30T21:11Z] merge fastq files ['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYHVDSXY_L3_2.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB104N_BUFFY_EDHG200007325-2a_HCYTYDSXY_L4_2.fq.gz']
+[2020-09-30T21:12Z] Preparing new csv: RHB104_prepare_samples-merged.csv
+[2020-09-30T21:25Z] Skipping header.
+[2020-09-30T21:25Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T21:25Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T21:25Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T21:25Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T21:25Z] Timing: prepare bcbio samples
+[2020-09-30T21:25Z] multiprocessing: prepare_bcbio_samples
+[2020-09-30T21:25Z] Preparing RHB105N files [['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB105N_BUFFY_EDHG200007326-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB105N_BUFFY_EDHG200007326-2a_HCYHVDSXY_L3_2.fq.gz']] to merge into /exports/eddie/scratch/s2006465/bcbio/reads/RHB105N.fastq.gz.
+[2020-09-30T21:25Z] Preparing new csv: RHB105_prepare_samples-merged.csv
+[2020-09-30T22:14Z] Skipping header.
+[2020-09-30T22:14Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T22:14Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T22:14Z] Resource requests: sambamba, samtools; memory: 1.00; cores: 1, 1
+[2020-09-30T22:14Z] Configuring 1 jobs to run, using 1 cores each with 1.00g of memory reserved for each job
+[2020-09-30T22:14Z] Timing: prepare bcbio samples
+[2020-09-30T22:14Z] multiprocessing: prepare_bcbio_samples
+[2020-09-30T22:14Z] Preparing RHB106N files [['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB106N_BUFFY_EDHG200007327-2a_HCYHVDSXY_L3_1.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB106N_BUFFY_EDHG200007327-2a_HCYHVDSXY_L3_2.fq.gz']] to merge into /exports/eddie/scratch/s2006465/bcbio/reads/RHB106N.fastq.gz.
+[2020-09-30T22:14Z] Preparing RHB106T files [['/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB106T_BL_EDHG200007334-1a_HCYFFDSXY_L1_1.fq.gz', '/exports/eddie/scratch/s2006465/bcbio/reads/lane/RHB106T_BL_EDHG200007334-1a_HCYFFDSXY_L1_2.fq.gz']] to merge into /exports/eddie/scratch/s2006465/bcbio/reads/RHB106T.fastq.gz.
+[2020-09-30T22:14Z] Preparing new csv: RHB106_prepare_samples-merged.csv

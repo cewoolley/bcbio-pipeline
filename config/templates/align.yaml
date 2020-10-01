@@ -1,0 +1,13 @@
+details:
+- algorithm:
+    align_split_size: false
+    aligner: bwa
+    platform: illumina
+    quality_format: standard
+    mark_duplicates: true
+    recalibrate: true
+    realign: false
+    tools_on: gatk4
+    variantcaller: gatk-haplotype
+  analysis: variant2
+  genome_build: hg38
