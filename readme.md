@@ -11,7 +11,7 @@ raw data on datastore -> scratch working dir -> alignment -> aligned files back 
 
 General workflow:
 
-0. Samples shoudl be named in a <sample><T/N> convention.
+0. Samples shoudl be named in a sample<T/N> convention. (e.g. RHB101N, RHB101T)
 1. Run sample/s through prepare_samples script which generates appropriate config files
 2. Run align samples script pointing to file containing IDs for your samples, not whether they're T/N. This gets specificed in the align command, see examples in scripts.
 
