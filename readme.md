@@ -1,6 +1,6 @@
 BCBio Pipeline scripts for Eddie HPC
 
-Scripts courtesy of Alison Meynart, modified in parts as needed
+Scripts courtesy of Alison Meynert, modified in parts as needed
 
 
 Prep: 
