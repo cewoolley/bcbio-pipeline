@@ -14,3 +14,7 @@ General workflow:
 0. Samples shoudl be named in a <sample><T/N> convention.
 1. Run sample/s through prepare_samples script which generates appropriate config files
 2. Run align samples script pointing to file containing IDs for your samples, not whether they're T/N. This gets specificed in the align command, see examples in scripts.
+
+
+Alignment: OK 
+Varcalling: ~ (Will get this working properly shortly!)
